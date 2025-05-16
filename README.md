@@ -21,7 +21,7 @@ An Android application that converts between major world currencies using real-t
 ## ▶️ Run the App
 
 ```bash
-git clone https://github.com/yourusername/CurrencyConverterApp.git
+git clone https://github.com/egezturkk/CurrencyConverterApp.git
 
 Then:
 
